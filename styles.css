@@ -1,0 +1,15 @@
+/* Set entire page background */
+html, body, [data-testid="stApp"] {
+    background-color: #f0f8ff;
+}
+
+/* Optional: change sidebar background */
+[data-testid="stSidebar"] {
+    background-color: #e6f2ff;
+}
+
+/* Optional: adjust container padding */
+main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
