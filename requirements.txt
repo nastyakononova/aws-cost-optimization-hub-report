@@ -1,0 +1,7 @@
+﻿altair==5.5.0
+fpdf==1.7.2
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+streamlit==1.45.1
+
