@@ -42,12 +42,6 @@ Toggle between English and Czech within the app interface. This enables localize
 
 ## 📂 Project Structure
 
-   ```bash
-   ├── your_script_name.py
-   ├── requirements.txt
-   ├── styles.css
-   └── README.md
-
 ## 🙌 Acknowledgments
 
 Created using Streamlit.
