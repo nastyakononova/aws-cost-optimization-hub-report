@@ -34,9 +34,9 @@ This project is a **Streamlit-based dashboard** for analyzing and reporting on *
 
 ## 🌐 Language Support
 
-   Toggle between English and Czech within the app interface. This enables localized viewing and report generation based on user preference.
+Toggle between English and Czech within the app interface. This enables localized viewing and report generation based on user preference.
 
-##📤 Exporting to PDF
+## 📤 Exporting to PDF
 
    After interacting with the data, you can export a summary report in PDF format directly from the dashboard using the Export to PDF button.
 
@@ -50,5 +50,5 @@ This project is a **Streamlit-based dashboard** for analyzing and reporting on *
 
 ## 🙌 Acknowledgments
 
-   Created using Streamlit.
-   PDF generation powered by FPDF.
+Created using Streamlit.
+PDF generation powered by FPDF.
