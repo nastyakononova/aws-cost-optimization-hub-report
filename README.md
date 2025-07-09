@@ -20,13 +20,13 @@ This project is a **Streamlit-based dashboard** for analyzing and reporting on *
 
 2. **Install dependencies:**
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. **Run the Streamlit app:**
 
-```bash
-streamlit run your_script_name.py
+   ```bash
+   streamlit run your_script_name.py
 
 ## 🎨 Styling
 
@@ -42,11 +42,11 @@ After interacting with the data, you can export a summary report in PDF format d
 
 ## 📂 Project Structure
 
-```bash
-├── your_script_name.py
-├── requirements.txt
-├── styles.css
-└── README.md
+   ```bash
+   ├── your_script_name.py
+   ├── requirements.txt
+   ├── styles.css
+   └── README.md
 
 ## 🙌 Acknowledgments
 
