@@ -30,15 +30,15 @@ This project is a **Streamlit-based dashboard** for analyzing and reporting on *
 
 ## 🎨 Styling
 
-The dashboard uses a custom styles.css file for consistent and personalized styling. It is automatically loaded and applied during app execution.
+   The dashboard uses a custom styles.css file for consistent and personalized styling. It is automatically loaded and applied during app execution.
 
 ## 🌐 Language Support
 
-Toggle between English and Czech within the app interface. This enables localized viewing and report generation based on user preference.
+   Toggle between English and Czech within the app interface. This enables localized viewing and report generation based on user preference.
 
 ##📤 Exporting to PDF
 
-After interacting with the data, you can export a summary report in PDF format directly from the dashboard using the Export to PDF button.
+   After interacting with the data, you can export a summary report in PDF format directly from the dashboard using the Export to PDF button.
 
 ## 📂 Project Structure
 
@@ -50,5 +50,5 @@ After interacting with the data, you can export a summary report in PDF format d
 
 ## 🙌 Acknowledgments
 
-Created using Streamlit.
-PDF generation powered by FPDF.
+   Created using Streamlit.
+   PDF generation powered by FPDF.
