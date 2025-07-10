@@ -5,7 +5,7 @@ This project is a **Streamlit-based dashboard** for analyzing and reporting on *
 ## 🚀 Features
 
 - 📊 Interactive charts with **Altair** and **Matplotlib**
-- 🗂 **Multilingual support**: English 🇬🇧 and Czech 🇨🇿
+- 🗂 **Multilingual support**: English and Czech
 - 📄 **Export to PDF** with one click
 - 🎨 Custom styling via `styles.css`
 - 💡 Responsive layout with **Streamlit's wide mode**
@@ -15,7 +15,7 @@ This project is a **Streamlit-based dashboard** for analyzing and reporting on *
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/aws-cost-optimization-dashboard.git
+   git clone https://github.com/nastyakononova/aws-cost-optimization-dashboard.git
    cd aws-cost-optimization-dashboard
 
 2. **Install dependencies:**
