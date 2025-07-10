@@ -26,7 +26,7 @@ This project is a **Streamlit-based dashboard** for analyzing and reporting on *
 3. **Run the Streamlit app:**
 
    ```bash
-   streamlit run your_script_name.py
+   streamlit run project.py
 
 ## 🎨 Styling
 
@@ -39,8 +39,6 @@ Toggle between English and Czech within the app interface. This enables localize
 ## 📤 Exporting to PDF
 
    After interacting with the data, you can export a summary report in PDF format directly from the dashboard using the Export to PDF button.
-
-## 📂 Project Structure
 
 ## 🙌 Acknowledgments
 
