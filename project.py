@@ -1,13 +1,10 @@
 #imported libraries
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import altair as alt
 from fpdf import FPDF
 from io import BytesIO
 
-#pozadavky: tlacitko na export v pdf, anglictina vs cestina
+# anglictina vs cestina
 #######################
 # Page configuration
 st.set_page_config(
