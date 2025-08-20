@@ -1,6 +1,6 @@
 # AWS Cost Optimization Report 🏂
 
-This project is a **Streamlit-based dashboard** for analyzing and reporting on **AWS cost optimization** opportunities. It offers interactive visualizations, multilingual support, and a built-in export to PDF feature.
+This project is a **Streamlit-based dashboard** for analyzing and reporting on **AWS cost optimization** opportunities. It offers interactive visualizations, multilingual support, and a built-in export to PDF feature. Link to the dashboard: https://nastyakononova-aws-cost-optimization-hub-report-project-vrlr2u.streamlit.app/
 
 ## 🚀 Features
 
